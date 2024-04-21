@@ -1,0 +1,54 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.heading-2{
+color:#ECAD15;
+}
+
+.btn-1 {
+    width: 120px;
+    height: 30px;
+   background-color: #ECAD15;
+   color: white;
+   border: none;
+   border-radius: 2px;
+ margin-right: 10px;
+}
+
+.btn-2 {
+    width: 120px;
+    height: 30px;
+   background-color: gray;
+   color: white;
+   border: none;
+   border-radius: 2px;
+}
+
+
+
+.store{
+    border-style: dashed;
+  
+}
+
+.store img{
+    width: 100%;
+}
+
+.tomato{
+    display: flex;
+justify-content: end;
+
+}
+.tomato >img{
+width: 12%;
+}
+
+
+.btn-last{
+    background-color: #ECAD15;
+    border-radius: 30px;
+}
